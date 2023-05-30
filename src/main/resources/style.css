@@ -1,0 +1,5 @@
+body { margin: 5px 20px; background-color: white;}
+h1, h2 { color: SteelBlue;}
+table th { padding-top: 4px; font-size: 12px; font-weight: bold; color: SteelBlue; padding-bottom: 0;}
+table td { padding-left: 2px; padding-top: 0; text-align: right;}
+button {margin-top: 15px;}
